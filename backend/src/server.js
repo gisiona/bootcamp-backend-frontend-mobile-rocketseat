@@ -1,5 +1,5 @@
 
-const app = require('./app');
+import app from './app';
 
 console.log('iniciando a execução do servidor na porta 5555');
 
